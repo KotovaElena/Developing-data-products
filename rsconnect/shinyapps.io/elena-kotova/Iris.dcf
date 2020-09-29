@@ -1,0 +1,12 @@
+name: Iris
+title: Iris
+username:
+account: elena-kotova
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2908813
+bundleId: 3682750
+url: https://elena-kotova.shinyapps.io/Iris/
+when: 1601378434.27714
+asMultiple: FALSE
+asStatic: FALSE
